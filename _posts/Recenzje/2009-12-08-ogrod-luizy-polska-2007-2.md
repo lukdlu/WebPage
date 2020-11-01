@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Ogród Luizy, Polska 2007
+date: 2009-12-08 08:38
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Ten film dość mocno mnie zaskoczył. Szczególnie, że oglądałem go tuż po fatalnej „Sztuce masażu”, więc byłem przygotowany na kolejne dwie godziny masochistycznych przyjemności, powiązanych z przekonanie o własnej wielkości twórców filmu. A tu trafił mi się bardzo dobry film. Oczywiście jeżeli przymkniemy oko na pewną, że się tak wyrażę, bajkowość pokazywanego nam świata (co w szczególności można odczuć w zaserwowanym nam zakończeniu) czy też sporą schematyczność pokazywanych w scenariuszu sytuacji. Jakby na to nie patrzeć, to postać Fabia, który z jednej strony jest bezwzględnym gangsterem, a z drugiej ma swoje zasady, prawie wszyscy go lubią, nie przechodzi obojętnie wobec ludzkiej krzywdy – jest prawie jak postać disnejowskiego Aladyna skrojona na miarę naszych potrzeb i możliwości. Dodatkowo jest ta bajkowość podkreślana pięknymi zdjęciami, które pokazują lekko odrealniony świat, niezbyt podobny do tego, co widać za oknem.  <P></P> <P>Kolejnym sporym atutem tego filmu jest gra aktorska – zarówno pierwszoplanowe role Dorocińskiego i Soliman, jak i wspierający ich Krzysztof Stroiński czy Kinga Preis powodują, że ogląda się to co dzieje się na ekranie ze sporą przyjemnością. Takie sceny jak pierwsza rozmowa Fabia z psycholożką czy też atak choroby Luizy w knajpie zapadają na trochę dłużej w pamięci. </P> <P>W którejś recenzji tego filmu przeczytałem, że to jest jeden z bardzo nielicznych polskich filmów, który nie opisuje naszej codziennej walki z egzystencjonalnym bólem i gnębiącym nas losem, tylko serwuje nam danie lekkie i przyjemne w odbiorze. I chciałbym się podpisać obiema rękami pod tym tekstem. Bo to jest jeden z niewielu polskich filmów w ostatnim czasie który naprawdę warto zobaczyć a nie tylko trzeba czy też wypadałoby zaliczyć. </P> <P class="" ocena??>Moja ocena: 8/10</P>

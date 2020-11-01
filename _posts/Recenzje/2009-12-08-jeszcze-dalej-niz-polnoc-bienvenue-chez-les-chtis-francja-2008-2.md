@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Jeszcze dalej niż północ (Bienvenue chez les Chtis), Francja 2008
+date: 2009-12-08 08:41
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Pozwolę sobie sparafrazować słowa pewnego galijskiego klasyka - ależ głupi ci Francuzi... Film ""Jeszcze dalej niż północ"" okazał się być najpopularniejszym filmem we francuskich kinach - a nie jest wart nawet jednej dziesiątej poświeconej mu uwagi. Jest to prosta i mało śmieszna komedia o domniemanych różnicach pomiędzy północą a południem Francji. Bardziej obrazowo mówiąc jest to ichniejsza wersja naszej swojskiej ""świętej wojny"". Z ta różnicą, ze nie ma Andzi - czyli największego atutu... A co jest? Dziwny akcent tubylców - jest, niejadalne potrawy - są, niezrozumiale zachowania - są, białe niedźwiedzie na ulicach - są, yyy, znaczy nie ma - ale z całokształtu zdarzeń wynika, ze pewnie chowają się po zaułkach. I to wszystko czeka na głównego bohatera filmu gdy los, a właściwie własna głupota sprowadzi go na taka dzika prowincje. </p><p> Scenariusz tego filmu składa się z samych klisz i juz od początku wiadomo, ze potoczy się zgodnie ze staropolska maksyma ""kochajmy się"" - nieważne jakie przeszkody rzuci pod swoje nogi scenarzysta, reżyser i odtwórca głównej roli w jednej osobie. Daleki jestem jednak od potępiania w czambuł całego filmu - są w nim elementy całkiem zabawne, ale są to fragmenty bazujące na humorze najniższych lotów. Takie jak wizyta szanownej małżonki czy tez nauka odmawiania poczęstunku od klientów. Tylko szkoda, ze takie ciekawsze fragmenty mogłyby co najwyżej stać się mocnymi skeczami kabaretowego programu - a nie podpora szanującego się wytworu europejskiej kinematografii... Ale z drugiej strony - jakie ja mam prawo się czepiać francuzów, skoro najpopularniejsze filmu ostatnich lat u nas nazywają się ""testosteron"" i ""lejdis""... </p><p class=""ocena""> Moja ocena 3/10</p> 

@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  1208  na wschód od Bukaresztu (A Fost sau n-a fost?), Rumunia 2006
+date: 2009-12-08 02:19
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>""12:08"" to kolejny w ostatnim czasie rumuński film wprowadzony na nasze ekrany przez Vivarto. I podobnie jak w przypadku ""Niebezpiecznych związków"" mamy  do czynienia z dość ciekawym filmem. Jest to bardzo kameralna komedia zrealizowana  dość skąpymi środkami, wystarczy wspomnieć, że połowę filmu stanowi rozmowa  trzech osób w małym i bardzo siermiężnym studiu. Widzowi jednak ta statyczność  nie przeszkadza, bowiem zarówno rozmowy w programie jak i wypowiedzi widzów  dzwoniących do studia, oraz zachowanie się gości i próby opanowania ich praz  prowadzącego i samotnego kamerzystę są dość śmieszne. Widać zresztą, że twórca  filmu chce do końca wykorzystać zarówno komiczność spartańskich warunków  w jakich tworzy program stacja telewizyjna jak oraz ""profesjonalizm"" jej  pracowników i dlatego dorzucił najśmieszniejszą w całym filmie scenę z koncertem  szkolnej orkiestry i kamerzystą filmującym z ręki, bo ""tak się teraz kręci"". </p><p> Z drugiej strony śmiech z wypowiedzi jakie słyszy gospodarz programu, próbując  ustalić czy była rewolucja, zamiera na ustach jak tylko sobie uświadomimy,  że u nas sporo osób nadal namiętnie obrzuca się błotem na w miarę podobny  temat (w końcu do dziś dużo osób twierdzi, że pewnemu elektrykowi przez płot  ktoś pomógł przejść). Kilka miesięcy temu mieliśmy okazję zobaczyć świetne  ""Życie na podsłuchu"", teraz możemy pójść do kina na próbę rozliczenia się  z przeszłością w dużo lżejszej formie. Szkoda, że nie możemy się doczekać  w naszej kinematografii obrazu, który nawiązywał do najnowszej historii (nie  licząc laurkowego ""Solidarność, Solidarność.""). Póki co warto zobaczyć jak  robią to inni.  </p><p id="ocena"> Moja ocena 6/10</p>

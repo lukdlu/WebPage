@@ -1,0 +1,32 @@
+- title: dlugajczyk.pl
+  url: /
+  external: false
+
+- title: dania
+  url: /dania/
+  external: false
+
+- title: wycieczki
+  url: /wycieczki/
+  external: false
+
+- title: recenzje
+  url: /recenzje/
+  external: false
+
+- title: mini recenzje
+  url: /miniRecenzje/
+  external: false
+
+- title: wszystko
+  url: /archive/
+  external: false
+
+- title: o mnie
+  url: /about/
+  external: false # set true if you using external link, see below
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true

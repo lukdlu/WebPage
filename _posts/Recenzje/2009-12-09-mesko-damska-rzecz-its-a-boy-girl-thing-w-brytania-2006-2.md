@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Męsko-damska rzecz (It's a Boy Girl Thing) W.Brytania 2006
+date: 2009-12-09 02:06
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Czytając powyższy opis łatwo można zauważyć, że scenariusz filmu stanowi  zlepek bardzo utartych schematów i żadne zaskoczenie podczas oglądania filmu  nie ma szans (no może użycie pewnej piosenki pogrzebowej jako budzika jest  dość nowatorskie). Schematyczny jest również sposób przedstawienia postaci  po zamianie ciał - Woody korzysta z okazji żeby pooglądać laski pod prysznicem  a Nell ma problem żeby wsiąść ""po męsku"" do samochodu. Jak widać nie jest  obraz który powodował by żywsze bicie serca u kinomana, ale godząc się z  tym, że nie będzie to uczta umysłowa w typie Zanussiego czy też zaskoczenie  a la ""I see dead people"", tylko filmowy fast food można miło spędzić 90 minut.  Ta brytyjska produkcja ma słaby początek - czego kulminacją jest scena wjazdu  Woodego w kałużę by ochlapać Nell pokazana w zwolnionym tempie , ale później  film wchodzi na pewien przyzwoity poziom. Oczywiście poziom pewnych kawałów  może drażnić (nieśmiertelny kawał z poranną erekcją) i w kilku miejscach  scenarzyści nie wykorzystali okazji do dowcipnych dialogów które sami sobie  stworzyli (vide bójka na sali gimnastycznej), ale to tylko ""teen comedy"". </p><p> Ja wybrałem się na ten film tylko i wyłącznie ze względu na swoją słabość  do Samaire Armstrong, a jako że jest je sporo na ekranie, więc się nie zawiodłem  (aczkolwiek w jasnym blond wygląda dużo lepiej). Tak więc podsumowując -  jeśli ktoś lubi amerykańskie młodzieżowe komedie, bądź ma ochotę na 90 minut  rozrywki nie wymagającej myślenia - to może się na ten film wybrać, jeśli  natomiast wymaga od filmu wyzwań umysłowych czy też dołującego przesłania  - to niestety będzie musiał poczekać na coś innego. </p><p id="ocena"> Moja ocena: 6/10.</p>

@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Nie kocham Cię (Ja tiebia nie lyublyu), Estonia  Rosja 2012
+date: 2012-10-12 16:41
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Tak sie zastanawiam, kto ogląda filmy przed daniem im miejsca w programie festiwalu. Ten film jest najlepszym przykładem że chyba nikt - wystarczą rekomendacje producentów. Jedyną rzeczą, która w tym obrazie mogłaby by być uznana za cokolwiek wartościowego, to sposób filmowania. Tylko ze jakieś 10 lat temu, jeszcze przed erą kamer w telefonach komórkowych i youtuba. Teraz jest to tylko niezbyt zdolną próba zamaskowani faktu, iż w filmie nie ma kompletnie nic interesującego. </p><p> Bo nie wiem co można za takie uznać w tym bardzo sie ciągnącym i pełnym monotonii - a trwającym zaledwie 85 "dziele". Fabuła jest rozliczone i opowiada o równie nieciekawym co i normalnym życiu pewnej dwudziestoletniej Rosjanki. Jej wybory są całkiem normalne jak na ten wiek, jej perypetie i towarzystwo również. Nie ma nic co motywował nakręcenie filmu. Ba nawet więcej, niezbyt widać dlaczego historia zaczyna się w jakimś tam momencie czy też kończy w innym. Ot, tak sie montażyście ucięło... </p><p> Najgorsze jest to, że nie do końca można odkryć, czy wszystkie niedoróbki filmu są zamierzonym działaniem twórców, czy tak jakoś wyszło. Bo jest kilka scen, w których bohaterka wygląda jakby była o kilka lat starsza i parę milionów bogatsza. Jest kilka postaci mniej lub bardziej epizodycznych, których drewniane aktorstwo aż boli. No i denerwuje niekonsekwentność - jest też kilka cen, których kamerą głównej bohaterki nie miała prawa zarejestrować - jak chociażby scena jej pierwszą miłością szokująca sobie łoże z krzeseł jakiś czas po ich rozstaniu... </p><p> Reasumując, jest to dobry film jak na projekt kółka filmowego w gimnazjum. Posadzenie twórców o jakiekolwiek formalne wykształcenie filmowe byłoby obrazą do ich nauczycieli.  </p><p id="ocena">Moja ocena 2/10</p>

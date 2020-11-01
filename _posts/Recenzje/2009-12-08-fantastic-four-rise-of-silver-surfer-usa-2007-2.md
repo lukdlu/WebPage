@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Fantastic Four Rise of silver surfer, USA 2007
+date: 2009-12-08 02:15
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Kilka lat temu pierwsza część &#8222Fantastycznej czwórki&#8221 była typową  wysokobudżetową ekranizacją komiksu &#8211 średnio ciekawym filmem rozrywkowym z  solidną porcją efektów. Jako że udało się jej uzyskać ponad 150 milion  dolarów w kinach, więc doczekaliśmy się sequela. I jak w każdej drugiej  części wszystkiego jest więcej: atrakcji, efektów i wrogów. Szkoda tylko, że  nie powstał lepszy film. I znowu mamy kłopoty sercowe Sue i Reeda, znowu  Niewidzialna Kobieta kończy bez ubrania w miejscu publicznym, znowu Ludzka  Pochodnia próbuje działać indywidualnie. Dostajemy do obejrzenia solidną  rzemieślniczą robotę, o której mało kto będzie pamiętał po wyjściu z kina,  ale która jest na tyle pewna, że zwróci z nawiązką wyłożone pieniądze.  </p> Szkoda, że twórcy filmu wybrali drogę po najmniejszej linii oporu, a nie  zdecydowali się skorzystać z możliwości jakie sami sobie stworzyli &#8211 fxbeb  mnovyv Avrjvqmvnyaą Xbovrgę, gb zbtyv wą j glz fgnavr mbfgnjvć. Olłol gb  cvrxvryavr bqjnżal ehpu, xgóel mbfgnjvłol jvęxfmbść jvqmój m fmpmęxnzv an  cbqłbqmr v fcenjvłol, żr svyz jnegl olłol mncnzvęgnavn. N żr mnovpvr obungren  zbżr qnć pbś frevv cbxnmnł jpmrśavrw Fhcrezna. Ab nyr cb ebovć pbś  qenfglpmartb, fxbeb śjvng Snagnfglpmarw pmjóexv wrfg an fmpmlpvr cbchyneabśpv&#8230 </p><p> Wygląda na to, że "Fantastyczną czwórkę" zaczyna łączyć z  "Spider-manem"  więcej niż Stan Lee (tutaj wreszcie jako Stan Lee a nie jakiś kierowca  autobusu)  - najpierw słaba pierwsza część, potem średnia druga. Mam  nadzieję, że nie zaliczy dna, jak Człowiek Pająk, w trzeciej. No ale, póki  co, "Narodziny Srebrnego Surfera" można obejrzeć, może bez poczucia obcowania  z jakimś wielkim kinem, ale również bez żałowania kilkunastu złotych wydanych  na bilet.  </p><p id="ocena"> Moja ocena: 5/10</p>

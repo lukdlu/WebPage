@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Superhero (Superhero movie), USA 2008
+date: 2009-12-08 08:40
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Wybierając się na tego typu film można z góry spodziewać się pewnego rodzaju humoru – o którym wiele można powiedzieć, ale na pewno nie to, że jest wyrafinowany czy też na przyzwoitym poziomie. Ale też na takie parodie nie chodzą miłośnicy humoru angielskiego. I dlatego opinie, jakie można przeczytać w recenzjach, że jest to wulgarny czy też prymitywny film są według mnie nieuprawnione. To tak jakby po obejrzeniu odcinka „Mody na sukces” mieć pretensję, że rozmowa o pogodzie składa się tam z trzech zdań i pięciu minut wymiany namiętnych spojrzeń. Tak więc – skoro oglądamy tego typu komedię należy przed wejściem na salę wyłączyć mózg, schować do kieszeni dobry smak i zacząć cieszyć się ferią żartów i skeczów. </p><p> I co możemy powiedzieć po seansie? Że jest to dosyć śmieszna komedia, w której możemy znaleźć parę naprawdę fajnych scen, jak choćby „All by myself” czy wizyta w szkole postaci Stephena Hawkinga (wiem, nie powinno się śmiać z czyjejś niepełnosprawności, a cóż ja na to poradzę, że dla mnie było to całkiem celne wbijanie szpilek) czy też finałowa walka z udziałem Bardzo Ważnych Gości – na czele z papieżem. A w roli wisienki na tym torcie wystąpił Leslie Nielsen – tradycyjnie w roli gapowatego człowieka, na którego uwziął się cały świat. I na dodatek ma okazję do wygłoszenia kilku bardzo mądrych i bardzo zgranych rad dla naszego, dopiero rodzącego się, superbohatera. Tak więc miałem okazję spędzić dość wesołe półtorej godziny w kinie – i to nic, że przeważają tam dowcipy gastryczne czy też mocno zgrane dowcipy z wszystkich gości w trykotach, jakich mogliśmy obejrzeć w naszych kinach przez ostatnie kilka lat – w końcu spora część z nas lubi kawałki, które już się słyszało… </p><p class=""ocena""> Moja ocena: 6/10 </p>

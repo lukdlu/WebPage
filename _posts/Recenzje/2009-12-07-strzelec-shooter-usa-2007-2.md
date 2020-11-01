@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Strzelec (Shooter), USA 2007
+date: 2009-12-07 09:00
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Antoine Fuqua po raz kolejny pokazuje, że jest dobrym rzemieślnikiem kina akcji. „Strzelec” jest kolejnym solidnym thrillerem w jego dorobku, który poziomem dorównuje takim produkcjom jak „Dzień próby” czy „Król Artur”. Przyzwoitym filmem, ale niczym więcej - za bardzo widać, że jest skrojony według pewnego schematu i kurczowo się go trzyma. </p><p> W pewnym momencie wydaje się, że scenariusz odchodzi od utartych ścieżek - anfm obungre avfmpml xnfrgę v mnjvren hxłnq m jebtvrz - ale dość szybko na nie wraca i serwuje się nam końcówkę, która powinna zadowolić wszystkich zjadaczy popcornu. Najpierw pochwała demokracji (ciekawe, czy u nas Pierwszy Prokurator IV RP również może zwolnić jednym zdaniem podejrzanego o zamach na prezydenta?), a potem przestroga dla złoczyńców o nieuchronności kary za ich przewinienia. <p></p> Niestety, o ile jeszcze można przymknąć oko na takie niezbyt logiczne zachowania jak zgoda na ukrycie i pomoc medyczna dla niezbyt dobrze znanego jej zamachowca przez narzeczoną zabitego na początku obserwatora (śliczna przez cały film Kate Mara), to już wytrenowanie na snajpera w ciągu kilku godzin agenta FBI, będącego świeżo po szkole, jest już mocno naciągane. Tak samo jak w to, że bez większych problemów są w stanie pokonać kilkunastu zaprawionych w boju wiarusów wspartych helikopterem. A tak swoją drogą ciekawe, że już nawet wyskobudżetowe kino z Hollywoodu pozwala sobie na tak wyraźne i krytyczne  nawiązania do bieżącej polityki - mocno mi się wypowiedzi drugiego snajpera o Etiopii i ropie kojarzyły z Irakiem. No i w dodatku ten senator, aż się zdziwiłem że nikogo nie postrzelił przy zabawach z rzutkami. </p><p id="ocena"> Moja ocena 5/10</p>
