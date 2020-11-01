@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  W świecie kobiet (In the land of women), USA 2007
+date: 2009-12-07 08:57
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Wydawało by się, że ten film ma wszystko co porządna obyczajówka mieć powinna - opisywać ciekawa sytuacje, posiadać dowcipne dialogi oraz kilka sympatycznych postaci. Niestety mimo tak dobrych składników rezultat nie jest zbyt ciekawy. W kinie możemy zobaczyć przegadane filmidlo które stara się nas obdarować mocno oklepanymi radami. W rezultacie po seansie widz zostaje z uczuciem lekkiego niedosytu spowodowanego zaprzepaszczeniem przez twórcę sporego potencjału. W niektórych recenzjach film ten jest porównywany do „Absolwenta”. Nie za bardzo wiem czemu - jest to film dużo lżejszego kalibru, starający się omijać tematy, które mogą zostać uznane za kontrowersyjne. Co tez może być zarzutem dla niego. W końcu co roku pełno na ekranach lekkostrawnych papek opowiadających o konfliktach wewnątrzrodzinnych i katalizującej roli ludzi z zewnątrz. </p><p> Autorem scenariusza, jak i reżyserem jest debiutant -Jon Kasdan, który niestety nieradzi sobie z ogarnięciem całości. Efektem tego jest wrażenie niespójności tego co możemy obserwować na ekranie. Perełki, jak cały watek lekko szurniętej babki głównego bohatera, przemieszane są z dużo mniej ciekawymi zapychaczami, jak mocno schematyczny watek konfliktu matki z córką.  Brak sprawnej reki reżysera widać szczególnie w kreacjach aktorskich. O ile stare wygi jak Olympia Dukakis czy Meg Ryan (która nawet dość bezboleśnie przechodzi od typowego podlotka w romantycznych komediach do statecznej matki dzieciom) potrafią sobie bez tego poradzić, to juz młodsi aktorzy maja problem. Kristen Stewart jedynie ładnie się prezentuje, a Adam Brody sprawia wrażenie jakby zaplątał się przypadkiem z kolejnego odcinka ""The OC"". </p><p id="ocena"> Moja ocena:  5/10</p>

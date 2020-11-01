@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Notatki o skandalu (Notes on a scandal) USA 2006
+date: 2009-12-09 02:05
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Po obejrzeniu tego filmu widzę, że moja lista osób, które powinny dostać  najważniejsze Oskary jest kompletnie inna od tej stworzonej przez akademię.  O ile potrafię jeszcze zrozumieć czemu dostał golasa Scorsese czy Whitaker  to decyzję o głównej roli żeńskiej już nie za bardzo. Judi Dench w tym filmie  stworzyła wręcz wybitną kreację. Jej stara, samotna  nauczycielka i jej mocno  zgryźliwe komentarze z offu nadają filmowi sporo smaku i powodują, że ta  historia nabiera kolorów i  wydaje się być czymś więcej niż ekranizacją jakiegoś  reportażu społecznego z jakiegoś tabloidu. Cate Blanchett również dostała  za swoją rolę nominację do Oskara, ale bardziej na zasadzie księżyca - świecić  świeci ale światłem odbitym. Przy Judi Dench w takiej formie nawet Bill Nighy  (który wielkim aktorem jest) wypada niczym Maciej Zakościelny w ""Kryminalnych"". </p><p> Autorzy tego filmu sporo zyskali wprowadzając narratora, który nie jest wszechwiedzący i komentuje wydarzenia z perspektywy Barbary. Dzięki temu uniknęli takich mielizn jak wytłumaczenie powodów postępowania Sheby czy też ukrywanie przeszłości Barbary. Jedną z nielicznych rzeczy które mniej mi się w tym filmie podobały jest rodzina młodszej z nauczycielek - dodanie chorego syna wygląda na posunięcie lekko na siłę, aby uzyskać jakąś motywację działania Sheby. Podobnie jak sposób w który rozpoczął się jej związek na studiach z mężem. Nie wiem jak  to wyglądało w powieści Zoe Heller na podstawie której powstał film, więc  może tylko powiela on grzechy pierwowzoru. Ale to tylko łyżka dziegciu na  całą i dość dużą beczkę miodu.  </p><p id="ocena"> Moja ocena: 8/10</p>

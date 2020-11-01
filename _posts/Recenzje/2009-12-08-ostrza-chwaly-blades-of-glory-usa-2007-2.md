@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Ostrza chwały (Blades of Glory), USA 2007
+date: 2009-12-08 02:10
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Amerykańska komedia z Willem Ferrellem w roli głównej - nie brzmi to zbyt zachęcająco. Jeśli dodać, ze tematem jest męska para łyżwiarzy figurowych, to można się zacząć bać. A, o dziwo, film ten nie szoruje swoim poziomem po bruku. Oczywiście zdarzają się żarty kręcące się wokół macania się po genitaliach, czy tez lekko użytego papieru toaletowego, ale nie dominują całości filmu. Ogólnie ten film jest  w miarę śmieszną komedia naśmiewającą się ze środowiska łyżwiarskiego i reguł tam panujących. Taką rozrywką w sam raz na letnie popołudnie. </p><p> Mamy na ekranie parę bawiącą się w Tonyę Harding, ""romans"" pomiędzy członkami wrogich obozów I egoistycznego samca alfa, który pokazuje się z lepszej strony - czyli wszystkie elementy mające stworzyć boxofficowy hit. I to się udało. W stanach film okazał się dość sporym sukcesem, u nas niestety raczej tak nie będzie - w multipleksie byłem na tym seansie sam. A trochę szkoda - epizod ze spotkaniem anonimowych seksoholików i Lukiem Wilsonem jest warty obejrzenia, tak samo jak pościg w centrum, sportowym. Ciekawy epizod ma William Fichtner w roli przybranego ojca. Można również pobawić się w rozpoznawanie kilku sław łyżwiarstwa, które migają przez ekran. </p><p> Jedna z kilku rzeczy, która nie wyszła twórcom filmu to efekty specjalne - strasznie siermiężne nalepianki aktorów na wypełnione lodowisko czy tez animacja postaci łyżwiarzy z Korei Północnej - ale z drugiej strony jak się zaakceptuje Willa Ferrella (któremu bliżej do reklamy Michelina) w roli sportowca, to można to przymknąć oko. Bo w końcu mamy okazję zobaczyć z lekka komedia a nie jakiś film s-f. A dodatkowo mnie twórcy przekonali korzystając z ""Flash""a Queenu przy jednym z pokazów. </p><p id="ocena"> Moja ocena 6/10</p>

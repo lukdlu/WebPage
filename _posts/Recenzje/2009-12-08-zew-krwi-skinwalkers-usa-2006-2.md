@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Zew krwi (Skinwalkers), USA 2006
+date: 2009-12-08 02:06
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+</p>Fakt, że ten amerykański film ma swoją premierę w Polsce przed rynkiem macierzystym jest wiele mówiący. Aczkolwiek po jego obejrzeniu w pełni można to zrozumieć. Mamy (nie)przyjemność zobaczyć horror który z każdą upływającą minutą trzyma widza w coraz większym napięciu. Lęk przed tym, jak niski film może osiągnąć poziom. Mniejsza już o to, że scenariusz filmu jest pełen dziur i nielogiczności (jedynym powodem, dla którego ekipa złych wjeżdża do miasteczka z takim hałasem, jest potrzeba umotywowania przez scenarzystę rozpierduchy), bo do tego trzeba mieć jakiś talent. Ale przyzwoity poziom efektów, a w szczególności taka rzecz wygląd wilkołaków, nie wymaga jakiś wielkich zdolności. Tymczasem tutaj wyglądają one jakby robiła je ekipa, która nauki brała od twórców „Wiedźmina” (aczkolwiek nie da się ukryć, że arbuzogłowe stwory z polskiej produkcji były bardziej udanym produktem). Tym bardziej jest to zaskakujące, skoro reżyserem jest James Isaac, twórca efektów do m.in. „eXistenZ”, które pewien poziom trzymały. </p><p> Zwykle nieudane horrory, których autorzy, z pełną powagą, starają się sprzedać widzom jakieś debilne rozwiązania docierają do granic parodii - co pozwala widzom na odrobinę przyjemności, jaką jest śmiech z głupoty twórców. Niestety jedynym efektem, jaki udaje się uzyskać u widza jest zgrzyt zębów jaki słychać w kinie podczas dołożonego na siłę i niepasującego zakończenia. Muszę się przyznać, że jeśli kiedyś będę tworzył listę najgorszych filmów jakie widziałem, to „Zew krwi” ma spore szanse na zwycięstwo. Dotychczasowego faworyt, „Habitat”, ma jedną przewagę - gdy tylko scenariusz natrafiał na jakąś mieliznę, to któraś z bohaterek zrzucała ciuchy, i przynajmniej było na co popatrzeć. Tutaj nie ma nic. </p><p id="ocena">Moja ocena: 1/10</p>

@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Dziękujemy za palenie (Thank you for smoking), USA 2005
+date: 2009-12-08 02:20
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>""Dziękujemy za palenie"" to kolejny w ostatnim czasie obraz który dociera  na nasze ekrany ze sporym poślizgiem, i po raz kolejny szkoda że tak się  dzieje. Jest to śmieszna komedia opowiadająca o dość poważnych rzeczach.  Jako, że w Polsce jedynym obrazem lobbysty jest pewien gracz w polo załatwiający  samochody z firankami, to warto się na ten film wybrać, by zobaczyć jak wygląda  (przynajmniej częściowo) praca osoby zajmującej się przekonywaniem rządzących  w normalniejszym ustroju. chociaż ten ich ostatni pomysł ze zwiększaniem  wieku odbiorców filmu za palenie o normalności ustroju niezbyt świadczy...  </p><p> Reżyserem i twórcą scenariusza jest Jason Reitman, syn twórcy ""Pogromców  duchów"" i ""Bliźniaków"", który pokazuje w swoim debiucie że odziedziczył sporo  z talentu swojego ojca i że warto to nazwisko zapamiętać na przyszłość. Jest  w filmie kilka niepotrzebnych wątków służących tylko rozbawieniu widza (jak  prawie cała wizyta w EGO) czy też nielogiczności (czy taki szczwany lis tak  łatwo wpadłby w sidła zastawione przez Katie Holmes), ale nie wpływają one  znacząco na obiór filmu. </p><p> Twórcy filmu zdecydowali się na dość odważne zagranie, bowiem pokazują przeciwników palenia w dość nieciekawie, kierując sympatię widza w stronę lobbystów, zarówno Nicka Naylora jak i jego przyjaciół wspierających producentów alkoholu i broni. Główny bohater kilkukrotnie przekonuje nas, że wszelkie próby nałożenia ograniczeń na przemysł tytoniowy są w rzeczywistości próbami ograniczenia wolnego wyboru, a to przecież najważniejszy fundament naszego ustroju. I robi to w sposób bardzo przekonujący. Na tyle, że po seansie przez chwilę żałowałem, że rzuciłem palenie jakiś czas temu. </p><p id="ocena"> Moja ocena 8/10</p>

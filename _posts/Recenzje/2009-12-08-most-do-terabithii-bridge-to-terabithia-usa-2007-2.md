@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Most do Terabithii (Bridge to Terabithia), USA, 2007
+date: 2009-12-08 02:11
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Pogoda się poprawiła i żeby schronić się przed upałem wstąpiłem do kina. Wybór był skromny, bowiem z tego co nie widziałem był tylko „Most do Terabithii” i „Hostel 2”. Wybrałem ten pierwszy, nastawiając się na niezbyt ambitną rozrywkę dla młodszej części widowni, w sam raz na gorące letnie popołudnie. No i przeżyłem spore zaskoczenie. Bowiem jest to świetny obraz, który powinny obejrzeć nie tylko dzieci na wakacjach. Film, który zaczyna się jak typowy amerykański produkcyjniak wklepujący widzowi maksymę, że inny nie znaczy gorszy, szybko zmienia się w przepiękny film o przyjaźni i potędze wyobraźni. I na tym nie kończy. </p><p> Na plakatach ten film jest reklamowany jako nowy film producentów „Opowieści z Narnii”, co jest IHMO niedźwiedzią przysługą. Właśnie to odstraszyło mnie od obejrzenia filmu wkrótce po premierze. A „Most do Terabithii” jest filmem co najmniej o 2 klasy lepszym. Szedłem na seans z tak niskimi oczekiwaniami, że w kinie gnx mnfxbpmbal xbńpbjlz mjebgrz nxpwv olłrz pulon bfgngavb an „Mn jfmryxą praę”. N zvzb gb hqnłb fvę nhgbebz mnxbńpmlć svyz qbść cbmlgljavr. </p><p> Sporym plusem filmu jest aktorstwo dwójki młodych bohaterów filmu. Grają równie naturalnie w scenach z realnym światem jak i w Terabithii(czego nie można powiedzieć polskich dubblerach), dzięki temu widz „zabiera” się z nimi w tam fantastyczną podróż. Ciekawostką jest, że na ścieżce dźwiękowej filmu (poza piosenką śpiewaną przez AnnaSophia’ę Robb) można znaleźć utwór śpiewany Hayden „Save the Cheerleader, Save the World” Panettiere - aczkolwiek jest to typowa popowa papka.  W każdym bądź razie film mnie na tyle wciągnął, że nawet nie zwróciłem uwagi na gorąc spowodowany brakiem sprawniej klimy w kinie. </p><p id="ocena"> Moja ocena: 9/10.</p>

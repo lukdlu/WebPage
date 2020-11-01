@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  Niepokój (Disturbia), USA 2007
+date: 2009-12-07 12:57
+author: Łukasz Długajczyk
+comments: true
+categories: [Recenzje]
+---
+<p>Film zaczyna się w sposób zalecany przez Alfred Hitchcocka - czyli od trzęsienia ziemi. Szczupak w scenie łowienia prezentuje niczym krewny rekina ze „Szczęk”, a potem napięcie wzrasta, bowiem oglądamy wypadek w którym ginie ojciec głównego bohatera. Niestety kolejne półtorej godziny jest typową amerykańską komedią romantyczną dla nastolatków, z wszystkimi jej wadami, na jakieś 10 minut przerwane wstawką mającą przestraszyć widza. W rezultacie otrzymujemy albo krótkometrażowy thriller albo kolejny odcinek „Życia na Fali”. Nie wiem może na mój, niezbyt pozytywny, odbiór tego filmu wpływa problem z kupieniem jego punktu wyjścia. Mianowicie jakoś nie potrafię zrozumieć jak po kilku tygodniach przebywania w areszcie i po zablokowaniu xboxa oraz iTunes można być tak znudzonym, że zaczyna się szpiegować sąsiadów. AFAIR moje 3 miesięczne wakacje, a było to w czasach kiedy takich bajerów jeszcze nie wymyślono, to nuda była ostatnią rzeczą na jaką był czas…</p><P>  No, ale pominiemy ten drobny mankament w pomyśle na film, to natkniemy się na kolejne błędy. Ok, potrafię zrozumieć, że pomysł na bezprzewodową kamerę mógł Kale pożyczyć z domowej strony Adama Słodowego. Ok, kobiety to skomplikowane stworzenia, więc jak facet jej opowiada, jak to ją dokładnie obserwował przez lornetkę, to może się w takim gościu zakochać. Ale to, że na Macintosh można powiększyć klatkę filmową o jakieś 1600% i mieć nadal idealną jakość czy też uznać, iż cflpubcngn zbżr fbovr jlohqbjnć cbxów emrźavpxv, onfra qb onyfnzbjnavn v ynovelag j cvjavpl, jest już lekkim lekceważeniem inteligencji widza. No, ale jeśli również i te kilka minusów się pominie, to będziemy mogli obejrzeć thriller mający być godnym następcą „Okna na podwórze”. Tylko po co, jeśli można zobaczyć oryginał? </p><p id="ocena"> Moja ocena 5/10</p>

@@ -1,0 +1,86 @@
+# Site settings
+title: dlugajczyk.pl # site title
+description: >- # site description
+  My page. I'm a chaos monkey, DevOps, retired developer, free time enthusiast with very eclectic approach to life
+lang: pl-PL # default lang
+timezone: CET # set your timezone
+image: /assets/img/logo_main.png
+repo: https://github.com/lukdlu/WebPage # site repo [optional]
+mode: dark # default theme "dark" | "light"
+
+permalink: /:categories/:title/
+
+# Profile settings
+author:
+  name: Łukasz Długajczyk
+  bio: >- # tell to the world
+    <p>Kiedyś, dawno dawno temu, człowiek który chciał podzielić się swoją twórczością musiał dorwać jakąś jaskinię i tam malować mamuty czy też inne ustrojstwa jakie jego wena miała ochotę opisywać. Teraz jest to dużo łatwiejsze.Jedni używają do tego różnych serwisów które pozwalają w sposób łopatologiczny wygenerować pamiętnik dostępny dla wszystkich. Inni nie maja takich ambicji i godzą sie z tym iż nie będą w stanie wygenerować więcej niż 140 znaków swoich przemyśleń – więc korzystają z mniej wyrafinowanych narzędzi.</p>
+    <p>I pozostają też tacy, którzy nie lubią sie ograniczać ramami jakie im są narzucane przez popularne serwisy. I potem siedzą po nocach tworząc własne ramy, które mogą sobie wypelnić dowolnym materiałem. Tak jest w moim przypadku – wiem, może jest to strzelanie z patriota do komara. Ale cóż, moja stronka, no i mój czas. I mój komar...</p>
+    <p>A jeśli czasem przesadzam ze swoim grafomaństwem – to cóż. Nobody’s perfect...</p>
+    <p>Na tej stronie będzie można znaleźć recenzje filmów, mini opisy wrażeń z seansów – których z różnych powodów nie mogłem opisać dokładniej, oraz parę wspomnień z odwiedzin w niezbyt egzotycznych miejscach…</p>
+    <p>A po długim czasie milczenia dodałem kategorię wpisów opisujących moje codzienne (no może cotygodniowe) zdziwienia związane z pobytem w obcym kraju.</p>
+    <p>Mam nadzieję, że czytanie opublikowanych tutaj tekstów pozwoliło na miłe spędzenie czasu i choćby raz pomogło w podjęciu decyzji czy warto dany film obejrzeć – czy też odwiedzić dane miasto.</p>
+    <b>Łukasz Długajczyk</b></p>
+  username: lukdlu # general username
+  avatar: /assets/img/logo_main.png
+  github: lukdlu # github username
+
+# URL settings
+url: "https://dlugajczyk.pl"
+baseurl:
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 7
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
