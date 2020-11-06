@@ -27,7 +27,7 @@ author:
 
 # URL settings
 url: "https://dlugajczyk.pl"
-baseurl: "https://lukdlu.github.io/WebPage"
+baseurl: ""
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 
