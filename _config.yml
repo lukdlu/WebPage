@@ -28,7 +28,6 @@ author:
 # URL settings
 url: "https://dlugajczyk.pl"
 baseurl: ""
-permalink: /:title/
 google_analytics: # leave it blank if not wish
 
 # Collection setting
