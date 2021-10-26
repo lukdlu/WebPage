@@ -1,0 +1,17 @@
+﻿---
+layout: post
+title:  Elektryki
+date: 2021-10-26 13:28
+author: Łukasz Długajczyk
+comments: true
+categories: [Dania]
+---
+
+<p>Prąd drożeje, gaz drożeje, benzyna też. Ale jako że mieszkamy na jedynym kontynencie, na którym coś się robi by zmniejszyć prawdopodobieństwo nadciągającej katastrofy klimatycznej, a nie tylko gada i przygotowuje analizy – więc będzie tutaj drożeć dalej, a my się będziemy przenosić swoje zużycie na mniej szkodliwe źródła energii. Co prawda niewiele to da, ale co się nazmieniamy, to nasze. No ale, jako że zawsze byłem pesymistą, więc może nie powinienem się wypowiadać – dlatego wrócę do tematu, który mnie skłonił od popełnienia tego wpisu.
+</p><p>
+Ale najpierw troszkę naszkicuję tło. Dania jest krajem, który jest bardzo świadomy pod względem zmian klimatycznych oraz kosztów walki z globalnym ociepleniem czy też jego zapobiegania. Jest też krajem, który sporo inwestuje w tak zwaną zieloną energetykę i istnieje zarówno wśród społeczeństwa, jak i polików zgoda na dużą część kosztów z tym związanych. Z racji położenia, największą popularnością cieszą się tutaj turbiny wiatrowe, które są bardzo powszechną częścią krajobrazu. Zarówno tego lądowego, jak i morskiego. Duży udział energetyki odnawialnej powoduje, że koszty prądu potrafią mocno się zmieniać. Co jest dość ciekawym doświadczeniem. Mój dostawca – spodziewam się, że inni tutaj też to oferują – udostępnia w apce, czy też na swojej stronie, bieżące koszty kWh, tak, że osoby, które na to mają ochotę, mogą zużywać większe ilości energii (jak na przykład na pranie czy suszenie) wtedy, gdy jest taniej a nie wtedy, gdy jest wygodniej. Świetna rzecz, aczkolwiek nie znam nikogo, kto by tak naprawdę z tego korzystał. W przypadku własnej fotowoltaniki i owszem, ale nie z tej możliwości…
+</p><p>
+Ale nie o tym chciałem pisać. Ostatnio przed sąsiednią kamienicą wyremontowano wszystkie 10 miejsc parkingowych i zamieniono je na miejsca ładowania samochodów elektrycznych. Czyli miejsca, na których nie można zostawić samochodu na noc, tylko na te kilka godzin, kiedy ładują się akumulatory… Jak to zauważyłem, to przeprowadziłem proste ćwiczenie umysłowe. Gdyby przed losowym polskim blokiem dokonano by takiej zamiany – jaka byłaby reakcja mieszkańców. Pewnie nie skończyłoby się protestami a la górnicy w Warszawie, ale pewnie lokalne (i nie tylko) media miałyby używanie, a kilku krewkich mieszkańców nocami pewnie zapoznawałoby się bliżej się z oponami samochodów śmiałków, który zdecydowaliby się na skorzystanie z ładowarek.
+</p><p>
+A tutaj? Czy były jakieś protesty? Czy dzień jak co dzień? Oczywiście, odpowiedź jest dość prosta. Dla dobra ogółu mała jego cząstka musi się zgodzić na odrobinę niewygody, bowiem summa summarum jest to zmiana dla wspólnego dobra. I owszem, dość często duża część miejsc jest wolnych, ale też rotacja samochodów jest duża i te ładowarki są dość regularnie używane. I wydaje mi się, że jest to bardzo dobre podejście, bo interes każdej społeczności jest ważniejszy od interesu jednostki. Tylko problemem jest zaufanie od liderów społeczności – jeśli jest duże, to takie zmiany, jak te z ładowarkami, są przyjmowane ze zrozumieniem. Jeśli nie ma zaufania – to wtedy moja racja jest mojsza… 
+</p>
