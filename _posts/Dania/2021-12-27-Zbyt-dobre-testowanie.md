@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  Zbyt dobre testowanie
-date: 2021-12-26 13:28
+date: 2021-12-27 13:28
 author: Łukasz Długajczyk
 comments: true
 categories: [Dania]
