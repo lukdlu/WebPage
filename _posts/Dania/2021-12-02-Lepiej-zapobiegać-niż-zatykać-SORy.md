@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  Elektryki
+title:  Lepiej zapobiegać niż leczyć
 date: 2021-12-02 13:28
 author: Łukasz Długajczyk
 comments: true
