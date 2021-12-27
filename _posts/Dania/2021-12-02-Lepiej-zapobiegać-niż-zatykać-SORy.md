@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  Lepiej zapobiegać niż leczyć
+title:  Lepiej zapobiegać niż zatykać SORy
 date: 2021-12-02 13:28
 author: Łukasz Długajczyk
 comments: true
