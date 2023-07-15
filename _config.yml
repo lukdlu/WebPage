@@ -28,7 +28,7 @@ author:
 # URL settings
 url: "https://dlugajczyk.pl"
 baseurl: ""
-google_analytics: UA-4109184-1 # leave it blank if not wish
+google_analytics: # leave it blank if not wish
 
 # Collection setting
 collections:
