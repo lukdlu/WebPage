@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  Spotkanie ludowe
-date: 2023-07-12 21:36
+date: 2023-07-13 21:36
 author: Łukasz Długajczyk
 comments: true
 categories: [Dania]
