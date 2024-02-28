@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Co tam w polityce
+title:  Co tam w polityce?
 date: 2024-02-28 21:36
 author: Łukasz Długajczyk
 comments: true
