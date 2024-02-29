@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Co tam w polityce?
-date: 2024-02-28 21:36
+date: 2024-02-29 21:36
 author: Łukasz Długajczyk
 comments: true
 categories: [Dania]
