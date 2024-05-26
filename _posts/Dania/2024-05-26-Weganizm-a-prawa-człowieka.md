@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Weganizm a prawa człowieka
-date: 2024-05-26 21:36
+date: 2024-05-25 08:36
 author: Łukasz Długajczyk
 comments: true
 categories: [Dania]
